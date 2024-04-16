@@ -1,10 +1,10 @@
 ### Hi I am Korkoe Anthony 👋
 
-- 🔭 I’m an I.T major student from Ghana.
-- 🌱 I’m currently learning javascript and laravel while working on broadening my scope in full stack technologies.
+- 🔭 I’m an I.T. major student from Ghana.
+- 🌱 I’m currently learning javascript and Laravel while working on broadening my scope in full stack technologies.
 - 💡 I am open and available to collaborate and learn alongside other newbies and professionals.
 - 📫 You can reach me on my mail, (korkoedumashie@gmail.com), on twitter (https://twitter.com/mr_korkoe) and facebook (https://web.facebook.com/profile.php?id=100004814228685 ) .
-- ⚡ I love to read and listen to hip-hop and lo-fi.
+<!--- ⚡ -->
 <!--
 **Korkoe27/Korkoe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
