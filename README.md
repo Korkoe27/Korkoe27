@@ -11,14 +11,14 @@ I am a passionate Laravel/PHP Web Developer, driven by a curiosity for technolog
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,PHP,laravel,MySQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,PHP,laravel)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of JavaScript and VueJS for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Laravel, a powerful Python web framework.
+  - Building server-side applications with Laravel, a powerful PHP web framework.
 
 
 
