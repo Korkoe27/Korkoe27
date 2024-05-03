@@ -2,7 +2,7 @@
 
 I am a passionate Laravel/PHP Web Developer, driven by a curiosity for technology and a love for learning new things. My journey involves delving into the world of full-stack web development, exploring new ideas, and sharing my insights with the community.
 
-![Korkoe27's Stats](https://github-readme-stats.vercel.app/api?username=<Korkoe27>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Korkoe27's Stats](https://github-readme-stats.vercel.app/api?username=Korkoe27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
