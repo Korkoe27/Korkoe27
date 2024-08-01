@@ -11,7 +11,7 @@ I am a passionate Laravel/PHP Web Developer, driven by a curiosity for technolog
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,PHP,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,HTML,css,PHP,laravel,ReactJS)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
