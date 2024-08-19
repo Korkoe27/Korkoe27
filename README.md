@@ -24,7 +24,7 @@ Is it Laravel, PHP, or ReactJs? I'm in!!🫶🏾😎
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/mr_korkoe) [LinkedIn](/korkoedumashie).
+- Connect with me on [Twitter](https://twitter.com/mr_korkoe) [LinkedIn](https://www.linkedin.com/in/korkoedumashie/).
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
