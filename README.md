@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️Continuously building..<br>🤔Continuously learning...<br>♥️ Laravel and React...<br>
+⚙️Continuously building..<br>🤔Continuously learning...<br>♥️ Laravel, React and everything in-between...<br>
 
 
 # 💻 Tech Stack:
